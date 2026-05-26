@@ -1,0 +1,10 @@
+.env
+venv/
+__pycache__/
+*.pyc
+*.pyo
+data/
+E:/jarvis-data/
+*.db
+*.log
+temp_keys.txt
